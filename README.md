@@ -42,7 +42,7 @@ Users should be able to:
 
 - Solution URL : [Git URL](https://github.com/mathangisd/nft-preview-card-component-main.git)
 
-- Live URL : [NFT Preview Card Component on Netlify](https://nftpreview-msd.netlify.app/))
+- Live URL : [NFT Preview Card Component on Netlify](https://nftpreview-msd.netlify.app/)
 
 
 ## My process
