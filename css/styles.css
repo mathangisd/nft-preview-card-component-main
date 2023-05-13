@@ -91,13 +91,9 @@ small, .text-small {
     object-fit: cover;
 }
 
-a {
-    text-decoration: none;
-    color: var(--white); 
-}
-
-a:hover {
+.hover-effect:hover {
     color: var(--cyan);
+    cursor: pointer;
 }
 /* 
 ===========================================
