@@ -128,7 +128,6 @@ Card
 .card-img-container {
     position: relative;
     width: 100%;
-    max-width: 400px;
 }
 
 .overlay {
@@ -141,21 +140,20 @@ Card
     width: 100%;
     opacity: 0;
     transition: var(--transition);
-    background: cyan;
-
+    background: var(--cyan);
+    background:  linear-gradient(rgba(0, 255, 247, 0.45) 40%, rgba(0, 255, 247, 0.9)); 
 }
 
-.overlay img {
+.icon {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: red;
-
 }
 
+
 .card-img-container:hover .overlay {
-    opacity: 0.5;
+    opacity: 0.8;
     cursor: pointer;
 }
 .card-img {
