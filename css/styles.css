@@ -82,7 +82,7 @@ small, .text-small {
 }
 
 .attribution a {
-    color: hsl(228, 45%, 44%);
+    color: hsl(192, 86%, 58%);
 }
 
 .img {
@@ -109,7 +109,6 @@ Card
     min-height: 100vh;
     display: grid;
     justify-items: center;
-    align-items: center;
     justify-content: center;
     align-content: center;
     padding: 2rem;;
@@ -197,7 +196,7 @@ Card
     margin-top: 1.5rem;
 }
 
-.img-container {
+.avatar-img-container {
     width: 2.5rem;
     height: 2.5rem;
     border: 2px solid var(--white);
